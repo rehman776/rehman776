@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **abdulrehman24126119@gmail.com**
 
-- 📄 Know about my experiences [6 Months of Experience In TECH-A-INTERN.](6 Months of Experience In TECH-A-INTERN.)
+- 📄 Know about my experiences [6 Months of Experience In TECH-A-INTERN.]
 
-- ⚡ Fun fact **I think I am Funny.**
+- ⚡ Fun fact **I think I am Funny😉😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
