@@ -1,4 +1,4 @@
-![logo](https://github.com/rehman776/rehman776/blob/main/Green%20%26%20Black%20Modern%20Personal%20%20LinkedIn%20Banner%20(1).png)
+![logo](https://github.com/rehman776/rehman776/blob/main/GitHub%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
