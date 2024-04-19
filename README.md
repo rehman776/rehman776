@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehman776&label=Profile%20views&color=0e75b6&style=flat" alt="rehman776" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rehman776/rehman776](https://github.com/rehman776/rehman776)
 
